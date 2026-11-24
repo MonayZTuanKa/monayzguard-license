@@ -4,7 +4,7 @@
       "keyHash": "883bf55e4b863dd7db52de79d94462746217ec9e834846ab1da8be7062b21893",
       "enabled": true,
       "maxServers": 1,
-      "serverIds": "84cf6a16-6a5c-491c-b02d-3409495b8129"
+      "serverIds": ["84cf6a16-6a5c-491c-b02d-3409495b8129"]
     }
   ]
 }
