@@ -1,0 +1,10 @@
+{
+  "licenses": [
+    {
+      "keyHash": "REPLACE_WITH_SHA256",
+      "enabled": true,
+      "maxServers": 1,
+      "serverIds": []
+    }
+  ]
+}
