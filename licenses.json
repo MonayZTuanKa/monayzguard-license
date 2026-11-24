@@ -1,7 +1,7 @@
 {
   "licenses": [
     {
-      "keyHash": "REPLACE_WITH_SHA256",
+      "keyHash": "b19347534df592d40e6ba9cfe380963f57538e4587d9c3cc625b380a043d177b",
       "enabled": true,
       "maxServers": 1,
       "serverIds": []
